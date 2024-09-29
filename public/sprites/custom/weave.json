@@ -1,0 +1,226 @@
+{
+    "blue-twill-right": {
+        "width": 16,
+        "height": 16,
+        "x": 0,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "blue-twill-left": {
+        "width": 16,
+        "height": 16,
+        "x": 16,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "blue-herringbone": {
+        "width": 32,
+        "height": 16,
+        "x": 0,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "blue-chevron": {
+        "width": 32,
+        "height": 16,
+        "x": 0,
+        "y": 16,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "blue-diamond": {
+        "width": 32,
+        "height": 32,
+        "x": 32,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "blue-satin": {
+        "width": 32,
+        "height": 32,
+        "x": 64,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "blue-satin-light": {
+        "width": 32,
+        "height": 32,
+        "x": 96,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "green-twill-right": {
+        "width": 16,
+        "height": 16,
+        "x": 0,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "green-twill-left": {
+        "width": 16,
+        "height": 16,
+        "x": 16,
+        "y": 32,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "green-herringbone": {
+        "width": 32,
+        "height": 16,
+        "x": 0,
+        "y": 32,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "green-chevron": {
+        "width": 32,
+        "height": 16,
+        "x": 0,
+        "y": 48,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "green-diamond": {
+        "width": 32,
+        "height": 32,
+        "x": 32,
+        "y": 32,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "green-satin": {
+        "width": 32,
+        "height": 32,
+        "x": 64,
+        "y": 32,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "green-satin-light": {
+        "width": 32,
+        "height": 32,
+        "x": 96,
+        "y": 32,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "green-twill-right": {
+        "width": 16,
+        "height": 16,
+        "x": 0,
+        "y": 32,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "purple-twill-left": {
+        "width": 16,
+        "height": 16,
+        "x": 16,
+        "y": 64,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "purple-herringbone": {
+        "width": 32,
+        "height": 16,
+        "x": 0,
+        "y": 64,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "purple-chevron": {
+        "width": 32,
+        "height": 16,
+        "x": 0,
+        "y": 80,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "purple-diamond": {
+        "width": 32,
+        "height": 32,
+        "x": 32,
+        "y": 64,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "purple-satin": {
+        "width": 32,
+        "height": 32,
+        "x": 64,
+        "y": 64,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "purple-satin-light": {
+        "width": 32,
+        "height": 32,
+        "x": 96,
+        "y": 64,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "purple-twill-right": {
+        "width": 16,
+        "height": 16,
+        "x": 0,
+        "y": 64,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "yellow-twill-left": {
+        "width": 16,
+        "height": 16,
+        "x": 16,
+        "y": 96,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "yellow-herringbone": {
+        "width": 32,
+        "height": 16,
+        "x": 0,
+        "y": 96,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "yellow-chevron": {
+        "width": 32,
+        "height": 16,
+        "x": 0,
+        "y": 112,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "yellow-diamond": {
+        "width": 32,
+        "height": 32,
+        "x": 32,
+        "y": 96,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "yellow-satin": {
+        "width": 32,
+        "height": 32,
+        "x": 64,
+        "y": 96,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "yellow-satin-light": {
+        "width": 32,
+        "height": 32,
+        "x": 96,
+        "y": 96,
+        "pixelRatio": 1,
+        "visible": true
+    }
+}
