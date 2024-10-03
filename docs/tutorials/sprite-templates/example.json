@@ -1,0 +1,202 @@
+{
+    "icon1-1": {
+        "width": 64,
+        "height": 64,
+        "x": 0,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon1-2": {
+        "width": 64,
+        "height": 64,
+        "x": 64,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon1-3": {
+        "width": 64,
+        "height": 64,
+        "x": 128,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon1-4": {
+        "width": 64,
+        "height": 64,
+        "x": 192,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon1-5": {
+        "width": 64,
+        "height": 64,
+        "x": 256,
+        "y": 0,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon2-1": {
+        "width": 64,
+        "height": 64,
+        "x": 0,
+        "y": 64,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon2-2": {
+        "width": 64,
+        "height": 64,
+        "x": 64,
+        "y": 64,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon2-3": {
+        "width": 64,
+        "height": 64,
+        "x": 128,
+        "y": 64,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon2-4": {
+        "width": 64,
+        "height": 64,
+        "x": 192,
+        "y": 64,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon2-5": {
+        "width": 64,
+        "height": 64,
+        "x": 256,
+        "y": 64,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon3-1": {
+        "width": 64,
+        "height": 64,
+        "x": 0,
+        "y": 128,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon3-2": {
+        "width": 64,
+        "height": 64,
+        "x": 64,
+        "y": 128,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon3-3": {
+        "width": 64,
+        "height": 64,
+        "x": 128,
+        "y": 128,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon3-4": {
+        "width": 64,
+        "height": 64,
+        "x": 192,
+        "y": 128,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon3-5": {
+        "width": 64,
+        "height": 64,
+        "x": 256,
+        "y": 128,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon4-1": {
+        "width": 64,
+        "height": 64,
+        "x": 0,
+        "y": 192,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon4-2": {
+        "width": 64,
+        "height": 64,
+        "x": 64,
+        "y": 192,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon4-3": {
+        "width": 64,
+        "height": 64,
+        "x": 128,
+        "y": 192,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon4-4": {
+        "width": 64,
+        "height": 64,
+        "x": 192,
+        "y": 192,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon4-5": {
+        "width": 64,
+        "height": 64,
+        "x": 256,
+        "y": 192,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon5-1": {
+        "width": 64,
+        "height": 64,
+        "x": 0,
+        "y": 256,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon5-2": {
+        "width": 64,
+        "height": 64,
+        "x": 64,
+        "y": 256,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon5-3": {
+        "width": 64,
+        "height": 64,
+        "x": 128,
+        "y": 256,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon5-4": {
+        "width": 64,
+        "height": 64,
+        "x": 192,
+        "y": 256,
+        "pixelRatio": 1,
+        "visible": true
+    },
+    "icon5-5": {
+        "width": 64,
+        "height": 64,
+        "x": 256,
+        "y": 256,
+        "pixelRatio": 1,
+        "visible": true
+    }
+}
